@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "BLACKKDT.aternos.me:38817",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.21.10"
   },
 
   "position": {
